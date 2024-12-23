@@ -34,7 +34,7 @@
 - install the dependencies from requirements.txt ` pip install -r requirements.txt`
 - apis takes the post request whic should contains the features as json/dict and returns a list of predictions 
 - run the model_api.py :  `python model_api.py`
-- url="http://127.0.0.1:5050"
+- url="http://127.0.0.1:5050/predict"
 - params can be of 2 types  but be sure you send correct data types and maintin the consistency 
 ```
    params_type1={
