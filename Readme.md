@@ -1,3 +1,7 @@
+## Predict Customer Churn and Build Insights for Retention
+-  Analysing customer data for a subscription-based service provider to identify patterns, predict churn, and propose retention strategies. Additionally, build a recommendation engine to enhance customer engagement.
+
+
 ## Data 
 - "./data" folder contains the data collected 
 - first_data.csv is data which contains 200 samples which were initially given 
